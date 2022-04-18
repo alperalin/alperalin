@@ -1,6 +1,6 @@
-## Hi I'm Alper 👋
+## Hi, I'm Alper 👋
 
-I'm a Frontend and a WordPress Developer.
+I'm Frontend and WordPress Developer.
 
 👨‍💻 Currently working as a freelance developer.
 
