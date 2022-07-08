@@ -2,7 +2,7 @@
 
 I'm Frontend and WordPress Developer.
 
-👨‍💻 Currently working as a freelance developer.
+👨‍💻 Currently working at [FazlaGıda](https://www.fazlagida.com/) as a frontend developer.
 
 :office: Previous Jobs: [Lemonat Studio](https://lemonat.com/), [Fusion Istanbul](https://fusionistanbul.com/) and [ListeList.com](https://listelist.com/)
 
